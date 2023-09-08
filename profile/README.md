@@ -10,7 +10,7 @@ Welcome to the UMass Lowell Cloud Computing Club! Our mission is to explore the 
 
 We are a student-led organization aiming to provide a platform for learning and applying cloud computing concepts. Our club is open to all—whether you're a beginner just starting out or an expert looking to share your knowledge.
 
-## Current Project: College Degree Program Scheduler
+## [Current Project: College Degree Program Scheduler](https://github.com/UMLCloudComputing/Fall2023)
 
 This semester, we are working on a College Degree Program Scheduler, a full-stack web application that allows users to plan and share their academic journey. This project serves as a comprehensive learning experience, covering various aspects of cloud computing and web development.
 

@@ -4,16 +4,20 @@
 
 # UMass Lowell Cloud Computing Club
 
-Welcome to the UMass Lowell Cloud Computing Club! Our mission is to explore the fascinating world of cloud computing and its applications. We focus on hands-on learning, projects, and connecting with industry professionals.
+Welcome to the UMass Lowell Cloud Computing Club! <br/>
+<br/>
+Our mission is to explore the fascinating world of cloud computing and its applications. <br/>
+We focus on hands-on learning, projects, and connecting with industry professionals.<br/>
 
-We are a student-led organization aiming to provide a platform for learning and applying cloud computing concepts. Our club is open to all—whether you're a beginner just starting out or an expert looking to share your knowledge.
+We are a student-led organization aiming to provide a platform for learning and applying cloud computing concepts. <br/>
+Our club is open to all—whether you're a beginner just starting out or an expert looking to share your knowledge.
 
-View our website: https://umlcloudcomputing.org/
+🧑‍💻 View our website: https://umlcloudcomputing.org/
 
-View our public meeting schedule: https://umlcloudcomputing.org/docs/current-schedule
+🚩 View our public meeting schedule: https://umlcloudcomputing.org/docs/current-schedule
 
 - **Who can join?**: Open to all UMass Lowell students, faculty, and staff.
-- **How to join?**: Attend our meetings and join our [Discord server](https://discord.gg/WC2NdqYtDt).
+- **How to join?**: Attend our [meetings](https://umlcloudcomputing.org/docs/current-schedule) and join our [Discord server](https://discord.gg/WC2NdqYtDt).
 - **How to contribute to projects?**: All contributions are made via GitHub. No prior experience required!
 
 Feel free to reach out to us on [Discord](https://discord.gg/WC2NdqYtDt) or via [email](mailto:cloudcomputingclub@uml.edu) for any queries.
